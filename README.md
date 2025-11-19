@@ -1,4 +1,4 @@
-<img src="https://github.com/Franciso1116/Franciso1116/blob/main/assets/banner.png?raw=true" alt="Header Banner" width="100%"/>
+<!-- <img src="https://github.com/Franciso1116/Franciso1116/blob/main/assets/banner.png?raw=true" alt="Header Banner" width="100%"/> -->
 
 <div align="center">
 
