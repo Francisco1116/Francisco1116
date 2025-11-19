@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm Francisco
 
-**`Full-Stack Developer | Open Source Enthusiast | AI & Cloud Architecture`**
+**`Full-Stack Developer`**
 
 <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge" alt="Profile views"/>
 
