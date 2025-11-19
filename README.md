@@ -4,13 +4,13 @@
 
 # Hi there 👋, I'm Francisco
 
-**`Full-Stack Developer`**
+**`Full-Stack Developer | Development Team Lead | `**
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Franciso1116&color=brightgreen&style=for-the-badge" alt="Profile views"/>
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Franciso1116)
 [![Twitter](https://img.shields.io/twitter/follow/yourtwitter?style=social)](https://twitter.com/yourtwitter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/)
 
 </div>
 
