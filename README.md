@@ -1,16 +1,44 @@
-## Hi there 👋
+<img src="https://github.com/Franciso1116/Franciso1116/blob/main/assets/banner.png?raw=true" alt="Header Banner" width="100%"/>
 
-<!--
-**Francisco1116/Francisco1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi there 👋, I'm Francisco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`Full-Stack Developer | Open Source Enthusiast | AI & Cloud Architecture`**
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge" alt="Profile views"/>
+
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/twitter/follow/yourtwitter?style=social)](https://twitter.com/yourtwitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+
+</div>
+
+<br>
+
+### 🔥 Latest Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Title 1</h3>
+      <br>
+      <a href="https://github.com/yourusername/project1">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dracula&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Title 2</h3>
+      <br>
+      <a href="https://github.com/yourusername/project2">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tech Stack & Tools
+<div align="center">
+
+```text
+Python   JavaScript   TypeScript   React   Next.js   Node.js   Docker   Kubernetes
+AWS      Terraform    PostgreSQL   MongoDB   Redis     GraphQL   Tailwind   Figma
